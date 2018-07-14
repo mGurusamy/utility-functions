@@ -1,2 +1,13 @@
-# utility-functions
-utility functions to play around with various js utilities
+Collection of Javascript Utilities(Simple Ones)
+
+# Examples
+
+```
+getRandomElement([2,5,7,10])
+//=> 7
+```
+
+```
+getRandomNumber(2, 7);
+//=> 5
+```
