@@ -11,3 +11,8 @@ getRandomElement([2,5,7,10])
 getRandomNumber(2, 7);
 //=> 5
 ```
+
+```
+getURLSlug('My Favourite Programming Language');
+//=> 'my-favourite-programming-language'
+```
